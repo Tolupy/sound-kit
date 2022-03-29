@@ -1,0 +1,23 @@
+body {
+  background-color: green;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+  font-family: sans-serif;
+  }
+
+h3 {
+  color: pink;
+  font-family: serif;
+}
+
+.kit {
+  margin: 4% 6%;
+  
+}
+
+footer {
+  color: pink;
+}

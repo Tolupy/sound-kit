@@ -1,0 +1,148 @@
+body {
+  background-color: green;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Arvo", cursive;
+  font-size: 5rem;
+  color: yellow;
+  text-shadow: 5px 0 #DA0463;
+}
+
+footer {
+  color: pink;
+  font-family: sans-serif;
+}
+
+.a {
+
+}
+
+.b {
+
+}
+
+.c {
+
+}
+
+.d {
+
+}
+
+.e {
+
+}
+
+.f {
+
+}
+
+.g {
+
+}
+
+.h {
+
+}
+
+.i {
+
+}
+
+.j {
+
+}
+
+.k {
+
+}
+
+.l {
+
+}
+
+.m {
+
+}
+
+.n {
+
+}
+
+.o {
+
+}
+
+.p {
+
+}
+
+.q {
+
+}
+
+.r {
+
+}
+
+.s {
+
+}
+
+.t {
+
+}
+
+.u {
+
+}
+
+.v {
+
+}
+
+.w {
+
+}
+
+.x {
+
+}
+
+.set {
+  margin: 16% auto;
+}
+
+.game-over {
+  background-color: blue;
+  opacity: 0.1;
+}
+
+.pressed {
+  box-shadow: 0 4px 4px 0 #DBEDF3;
+  opacity: 0.8;
+}
+
+.red {
+  color: red;
+}
+
+.key {
+  outline: none;
+  border: 9px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 700;
+  color: #DA0463;
+  text-shadow: 3px 0 grey;
+  border-radius: 10px;
+  display: inline-block;
+  width: 50px;
+  height: 150px;
+  text-align: center;
+  margin: 0;
+  background-color: #fff;
+}
